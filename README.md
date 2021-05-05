@@ -1,40 +1,79 @@
-### Hi there 👋
+# Hello there 👋
 
-### Sup
-I am Nav a 13 year old full stack javascript and java developer, I mainly code React, Discord.js, Express, Forge etc... Nice to meet you.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=navthesass.navthesass)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<a href="https://discordapp.com/users/716933460454801478"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
-<a href="https://twitter.com/NavaneethSajiv"><img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+```js
+class Programmer {
+    constructor(name, dob, hobbies, isLazy) {
+      this.name = name;
+      this.dob = dob;
+      this.hobbies = hobbies;
+      this.isLazy = isLazy;
+    }
+}
 
-<a href="https://www.twitch.tv/navwrecks"><img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" /></a>
+let NavTheSass = new Programmer (
+  "Navaneeth Sajiv",
+  "30 Jan 2008",
+  [
+    "Programming",
+    "Chess",
+    "Reading",
+    "Origami"
+  ],
+  true
+)
+```
 
-<a href="https://www.reddit.com/user/NavWrecks"><img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" /></a>
+## 📝 Blogs
 
-<a href="https://open.spotify.com/user/sxw512bw68rnsxtxbsm36f35g"><img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
+- Personal Blog: Coming Soon!
+- Npm Page: https://www.npmjs.com/~aoibot
 
-</br>
 
-### Stats
-![Profile Visits](https://komarev.com/ghpvc/?username=NavTheSass&color=blue&label=Profile-Visits&width=26px)
+## 🔧 Technologies & Tools
 
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NavTheSass&show_icons=true&theme=tokyonight&layout=compact)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Forge-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavTheSass&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NavTheSass&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+## &#x1f4c8; GitHub Stats
 
-## Langauges & Tools 
+<a href="https://github.com/NavTheSass/NavTheSass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navthesass&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
 
-<a href="https://www.javascript.com/"><img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="Type Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813338778059931658/791512440021975062.png" /></a>
-<a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495374202109962/813909686444490812.png" /></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042483814596618/777960436187398168.png" /></a>
-<a href="https://code.visualstudio.com/insiders/"><img align="left" alt="VScodeInsiders" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042503749337118/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" /></a>
-<a href="https://discord.js.org/#/"><img align="left" alt="DiscordJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" /></a>
-<a href="https://html.com/"><img align="left" alt="HTML" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495978413490206/813909686449078353.png" /></a>
-<a href="https://www.w3schools.com/css/css_intro.asp"><img align="left" alt="CSS" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495960231051285/813909685542584321.png" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160"><img align="left" alt="C++" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813717836413141102/720003328704249888.png" /></a>
-<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="11px" src="https://cdn.discordapp.com/attachments/809031839032672327/814491141646975016/773715536772988968.png" /></a>
-<img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
+<a href="https://github.com/NavTheSass/NavTheSass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=navthesass&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=navthesass&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/NavTheSass/imange">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=navthesass&repo=imange&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="imange" />
+</a>
+
+<a href="https://github.com/navthesass/simple-chat-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=navthesass&repo=simple-chat-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="simple-chat-bot" />
+</a>
+
+## 👨‍💻 This week, I spent my time on:
+
+[![nav's week stats](https://github-readme-stats.vercel.app/api/wakatime?username=navthesass&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
