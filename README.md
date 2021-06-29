@@ -34,7 +34,7 @@ let NavTheSass = new Programmer (
 
 ## Discord
 <a href="https://discord.com/users/849497059740221451">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/849497059740221451.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/849497059740221451.png" />
 </a>
 
 ## 🔧 Technologies & Tools
