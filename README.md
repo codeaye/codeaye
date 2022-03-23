@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaye&label=Profile%20views&color=0e75b6&style=flat" alt="codeaye" /> </p>
 
-- 🔭 I’m currently working on [Horus](https://github.com/codeaye/horus)
+- 🔭 I’m currently working on [Ixora](https://github.com/codeaye/ixora)
 
 - 🌱 I’m currently learning **Next.js, Rust**
 
-- 👯 I’m looking to collaborate on [Horus](https://github.com/codeaye/horus)
+- 👯 I’m looking to collaborate on [Ixora](https://github.com/codeaye/ixora)
 
 - 👨‍💻 All of my projects are available at [https://github.com/codeaye?tab=repositories](https://github.com/codeaye?tab=repositories)
 
