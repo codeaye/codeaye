@@ -8,11 +8,11 @@ Web and backend developer
 
 A young passionate backend developer from India who codes as a hobby.
 
-* 🌍  I'm based in Rochester UK
+* 🌍  I'm based in UK
 * ✉️  You can contact me at navaneeth.sajiv@gmail.com
-* 🧠  I'm learning Tauri and Rust
+* 🧠  I'm learning Rust
 * 🔭 I’m currently working on random projects
-* 💬 Ask me about Javascript, Typescript and React
+* 💬 Ask me about Javascript, Typescript and React, and Python
 * ⚡ Fun fact, I hate php with passion
 
 <a href="https://www.github.com/codeaye" target="_blank" rel="noreferrer"><img
